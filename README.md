@@ -1,4 +1,4 @@
-# Large Language Model Zero to Hero
+# Large Language Model Zero to Hero 
 ![](https://github.com/Utshav-paudel/LLM-Zero-to-Hero/blob/778bb128e4f5daa646b4ef55d051200e48a8aacf/File_dump/GByqz8aacAAi-y2%20(1).jpeg)
 I will share my learning path, projects and finding with you through this repository . If you are also interested in this realm of Large Languge Models  this repo⭐ is for you.
 
@@ -10,7 +10,7 @@ I will share my learning path, projects and finding with you through this reposi
 | 3.[**LLM Course**](https://github.com/mlabonne/llm-course/tree/main)| 🏊🏻‍♂️ |
 
 
-## Work
+## Practices :
 | Projects and Notebooks Completed |
 | ----------------- |
 |1.[**Pet name generator Webapp**](https://github.com/Utshav-paudel/Petname-Generator) |
